@@ -6,7 +6,7 @@ CONTRASEÑA: Tatsuya*06%
 
 1) Descarga: Clonar el repositorio o descargar el ZIP dentro de la carpeta htdocs de XAMPP.
 
-2) Base de Datos: En el repositorio verás una carpeta llamada (d)b con el archivo .sql. Debes importarlo en PhpMyAdmin.
+2) Base de Datos: En el repositorio verás una carpeta llamada DB con el archivo .sql. Debes importarlo en PhpMyAdmin.
 
 3) Configuración: Asegúrate de revisar el archivo conexion.php para que coincida con tu usuario y contraseña de MySQL local.
 
