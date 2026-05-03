@@ -7,7 +7,7 @@ include "controlador/roles.controlador.php";
 include "controlador/cargos.controlador.php";
 include "controlador/asistencia.controlador.php";
 include "controlador/estadistica.controlador.php";
-include "controlador/reset-password.controador.php";
+
 
 
 include "modelo/usuario.modelo.php";

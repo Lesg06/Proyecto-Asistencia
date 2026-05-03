@@ -387,6 +387,8 @@ static public function ctrGuardarusuarios()
 			return;
 		}
 
+        
+
 
 		if (!empty($_FILES['cr_subirImgUsuario']['tmp_name'])) {
 
